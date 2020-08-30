@@ -1,0 +1,10 @@
+
+Place = input ("Name a place: ")
+Noun = input ("Name a noun: ")
+Adjective = input ("Name an adjective: ")
+Noun2 = input ("Name another noun: ")
+print ("\n")
+print ("I went to " + Place + " and found")
+print ("no " + Noun + ". I looked high and low.")
+print ("It was not a problem, because my " + Adjective + " doggie")
+print ("has been on a diet of " + Noun2 + " since April, and it shows!")
